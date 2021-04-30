@@ -1,1 +1,1 @@
-Texto del archivo1 moficado.
+Texto del archivo1 moficado en eclipse.
